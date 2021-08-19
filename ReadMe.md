@@ -1,8 +1,7 @@
 # Practice
 Code for various coding challenges, mainly LeetCode.
 
-Written in Typescript and then converted to JS to run
-
+Written in Typescript and then converted to JS to run using:
 ```
-Using tsc [filename.ts] && node [filename.js]
+tsc [filename.ts] && node [filename.js]
 ```
