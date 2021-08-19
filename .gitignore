@@ -1,4 +1,4 @@
 debug.log
-*.log
+**.log
 .DS_STORE
-AddTwoNumbers.js FindPeakElement.js FindPeakElementRecursive.js HammingDistance.js LongestSubstringNoRepeating.js countPrimeSetBits.js partition labels.js
+**.js
